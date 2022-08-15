@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @attgabrielaluz
-- 👀 I’m interested in Web Full Stack
-- 🌱 I’m currently learning Front End
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
+- 👋 Oi, eu sou Gabriela Luz
+- 👀 Estou interessada em Desenvolvimento Web Full Stack
+- 🌱 Atualmente estou aprendendo Front End na Digital House
+- 💞️ Estou me desenvolvendo, iniciando no mundo da programação 
+- 📫 Me encontre <a href="https://www.linkedin.com/in/attgabrielaLuz>aqui</a> ...
 
 <!---
 attgabrielaluz/attgabrielaluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
