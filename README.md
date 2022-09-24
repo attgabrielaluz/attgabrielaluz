@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou Gabriela Luz
 - 👀 Estou interessada em Desenvolvimento Web Full Stack
-- 🌱 Atualmente estou curso Engenharia de Software e aprendendo Front End 
+- 🌱 Atualmente estou cursando Engenharia de Software e me desenvolvendo no Front End 
 - 💞️ Sou iniciante nesse mundo da programação 
 
 <!---
